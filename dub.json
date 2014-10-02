@@ -1,0 +1,10 @@
+{
+	"name": "irc-jira",
+	"description": "",
+	"authors": ["Evan Lowry"],
+    "targetType": "executable",
+	"dependencies": {
+        "ircbod" : ">=0.1.3"
+	},
+    "libs-posix": ["curl"]
+}
